@@ -13,7 +13,7 @@ This project adheres to the [Open Code of Conduct](http://todogroup.org/opencode
 
 Often times people want to know when an asynchronous test is done so they can allow their application to react to it.
 In the past, you've had to rely on watching properties or `<html>` classes. Only events on **asynchronous** tests are
-supported. Synchronous tests should be handled synchronously to improve speed and to maintain consistency.
+supported. Synchronous tests should be handled synchronously to improve speed and to maintain consistency. This is a test/practice to push a forked file. 
 
 The new API looks like this:
 
